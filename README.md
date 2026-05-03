@@ -1,2 +1,2 @@
 # Cryptopals-Crypto-Challenge
-Collection of Cryptopals Crypto Challenge written in C++
+Collection of Cryptopals Crypto Challenge Solutions
